@@ -1,0 +1,66 @@
+{
+	"users": [
+		{
+			"name": "VEDHAVARSHINI",
+			"age": 20,
+			"mobileNumber": "1234567890",
+			"accountNumber": "86696872658665828",
+			"balance": "300.0",
+			"address": "231dgbes",
+			"pinNumber": "1234",
+			"mPin": "1111",
+			"creditTransactions": [
+				{
+					"ownAccountNumber": "86696872658665828",
+					"accountNumber": "86696872652012345",
+					"amount": "200",
+					"date": "22/02/2023"
+				},
+				{
+					"ownAccountNumber": "86696872658665828",
+					"accountNumber": "86696872652012345",
+					"amount": "200",
+					"date": "22/02/2023"
+				}
+			],
+			"debitTransactions": []
+		},
+		{
+			"name": "VEDHA",
+			"age": 20,
+			"mobileNumber": "1234567890",
+			"accountNumber": "86696872652012345",
+			"balance": "1000.0",
+			"address": "adq341",
+			"pinNumber": "0000",
+			"mPin": "1111",
+			"creditTransactions": [],
+			"debitTransactions": [
+				{
+					"ownAccountNumber": "86696872652012345",
+					"accountNumber": "86696872658665828",
+					"amount": "200",
+					"date": "22/02/2023"
+				},
+				{
+					"ownAccountNumber": "86696872652012345",
+					"accountNumber": "86696872658665828",
+					"amount": "200",
+					"date": "22/02/2023"
+				}
+			]
+		},
+		{
+			"name": "ABIRAMI",
+			"age": 24,
+			"mobileNumber": "0987654321",
+			"accountNumber": "65667382657773240",
+			"balance": "0.0",
+			"address": "kllkawe1",
+			"pinNumber": "1234",
+			"mPin": "1111",
+			"creditTransactions": [],
+			"debitTransactions": []
+		}
+	]
+}
